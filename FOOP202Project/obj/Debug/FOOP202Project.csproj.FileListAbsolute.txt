@@ -1,0 +1,15 @@
+H:\FOOP202\FOOP202Project\FOOP202Project\bin\Debug\FOOP202Project.exe.config
+H:\FOOP202\FOOP202Project\FOOP202Project\bin\Debug\FOOP202Project.exe
+H:\FOOP202\FOOP202Project\FOOP202Project\bin\Debug\FOOP202Project.pdb
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.csprojResolveAssemblyReference.cache
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\MainWindow.g.cs
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\App.g.cs
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project_MarkupCompile.cache
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project_MarkupCompile.lref
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\MainWindow.baml
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.g.resources
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.Properties.Resources.resources
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.csproj.GenerateResource.Cache
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.csproj.CoreCompileInputs.cache
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.exe
+H:\FOOP202\FOOP202Project\FOOP202Project\obj\Debug\FOOP202Project.pdb
